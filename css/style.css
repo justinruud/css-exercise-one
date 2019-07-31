@@ -1,3 +1,4 @@
+/*font size applies to all text within the body*/
 body {
   font-size: 14px;
 }
@@ -15,7 +16,7 @@ section {
   margin: 0 auto;
   width: 60%;
 }
-/* Header formatting */
+/* Header 1 formatting */
 h1 {
   font-family: sans-serif;
   font-size: 2em;
@@ -26,6 +27,7 @@ h1 {
   text-align: center;
 }
 
+/* Header 3 font size*/
 h3 {
   font-size: 1.3em;
 }
